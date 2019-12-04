@@ -1,5 +1,5 @@
 # hello-world
-Another Octocat repository
+Another Octocat repository [using this webpage](https://guides.github.com/activities/hello-world/)
 
 I'm a healthcare worker using data.  My preferred language is Perl, and I currently follow John Siracusa on Relay.fm.
 
